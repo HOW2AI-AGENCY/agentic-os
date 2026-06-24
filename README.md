@@ -1,1 +1,1 @@
-# agentic-os
+# AGENTIC OS
