@@ -1,1 +1,1 @@
-# AGENTIC OS
+![AgenticOS](banner-agentic-os.png)
