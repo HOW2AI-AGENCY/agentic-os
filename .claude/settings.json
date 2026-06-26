@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(//c/Users/oat70/.claude/skills/graphify/references/**)"
+    ]
+  }
+}
